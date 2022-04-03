@@ -8,15 +8,20 @@ var data;
         
         })
     })
-     console.log("below await",data)
+    //  console.log("below await",data)
 }
+
+   // getting values form the user form
+   function getValues() {
+    var college = document.getElementById("college").value
+    console.log("selected college",college); 
+    var caste = document.getElementById("caste").value
+    console.log("selected  caste -",caste); 
+} 
 
 load().then(() => {
-console.log(data);     
+// console.log("data is",data);
+
+
 });
  
-
-function getValues() {
-    var college = document.getElementById("college").value
-    console.log("selected option",college); 
-}
