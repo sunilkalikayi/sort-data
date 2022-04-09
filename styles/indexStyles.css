@@ -1,0 +1,56 @@
+
+      * {
+        margin: 0;
+        padding: 0px;
+      }
+      
+
+      .regform {
+        width: 1000px;
+        background-color: rgb(0, 0, 0, 0.8);
+        padding-top: 70px;
+        padding-bottom: 40px;
+        margin: auto;
+        color: #ffffff;
+        padding: 10px 0px 10px;
+        border-radius: 15px 15px 0px 0px;
+        font-family: Bold Italic;
+      }
+      #ram {
+        text-align: center;
+        color: #ffffff;
+      }
+
+      .mane {
+        width: 1000px;
+        background-color: rgb(0, 0, 0, 0.4);
+        margin: auto;
+        color: #ffffff;
+        padding: 10px 0px 10px;
+        border-radius: 0px 0px 10px 10px;
+        padding-top: 40px;
+        padding-bottom: 200px;
+      }
+      .mane4 {
+        width: 1000px;
+        background-color: rgb(0, 0, 0, 0.9);
+        padding-top: 18px;
+        padding-bottom: 0px;
+        margin: auto;
+        color: #ffffff;
+        padding: 10px 0px 10px;
+        border-radius: 0px 0px 15px 15px;
+        font-family: Bold Italic;
+        text-align: center;
+      }
+      .mane2 {
+        text-align: center;
+      }
+      #sri {
+        font-family: sans-serif;
+        font-weight: bold;
+      }
+      .mane3 {
+        padding-left: 100px;
+        padding-top: 40px;
+      }
